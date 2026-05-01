@@ -1,0 +1,18 @@
+Exercícios Propostos
+
+1. Crie um programa que:
+
+o Gere 10 números aleatórios
+o Encontre o maior e o menor número
+· Calcule a média desses números
+
+2. Use a biblioteca os para:
+
+o Criar uma nova pasta
+o Listar o conteúdo da pasta atual
+· Imprimir o caminho absoluto da pasta
+
+3. Usando funções matemáticas avançadas:
+· Calcule a potência de 2 elevado a 8
+o Encontre o valor absoluto de -15
+· Encontre o fatorial de 5

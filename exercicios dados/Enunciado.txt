@@ -1,0 +1,12 @@
+Exercícios Propostos
+
+1. Usando Pandas, crie um DataFrame com dados de vendas e calcule:
+
+o Média de vendas por mês
+o Total de vendas por produto
+
+2. Use Requests para buscar dados de uma API pública
+
+o Exemplo: API de CEP, GitHub, ou dados abertos
+
+3. Utilize Pyarrow para converter um CSV grande para Parquet

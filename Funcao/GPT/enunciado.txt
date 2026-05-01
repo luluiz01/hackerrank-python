@@ -1,0 +1,80 @@
+🧠 Exercícios de Funções (nível crescente)
+1️⃣ Soma de lista
+
+Crie uma função que:
+
+👉 recebe uma lista de números
+👉 retorna a soma de todos os elementos
+
+2️⃣ Média de valores
+
+Crie uma função que:
+
+👉 recebe uma lista
+👉 retorna a média dos valores
+
+⚠ trate lista vazia
+
+3️⃣ Maior e menor
+
+(versão treino do que você já fez)
+
+👉 retorna maior e menor número
+
+4️⃣ Filtrar pares
+
+Crie uma função que:
+
+👉 recebe uma lista
+👉 retorna uma nova lista com apenas números pares
+
+5️⃣ Dobrar valores (map)
+
+Crie uma função que:
+
+👉 recebe uma lista
+👉 retorna todos os valores dobrados usando map
+
+6️⃣ Filtrar nomes grandes (filter)
+nomes = ["Ana", "Luiz", "João", "Li"]
+
+👉 Crie uma função que retorna nomes com mais de 3 letras
+
+7️⃣ Usando enumerate
+
+Crie uma função que:
+
+nomes = ["Ana", "Bruno", "Carlos"]
+
+👉 retorna:
+
+["1 - Ana", "2 - Bruno", "3 - Carlos"]
+8️⃣ Usando zip
+nomes = ["Ana", "Bruno"]
+idades = [20, 25]
+
+👉 Crie uma função que retorna:
+
+["Ana tem 20 anos", "Bruno tem 25 anos"]
+9️⃣ Lista de dicionários (nível intermediário)
+produtos = [
+    {"nome": "camisa", "preco": 50},
+    {"nome": "calça", "preco": 120},
+    {"nome": "tenis", "preco": 200}
+]
+
+👉 Crie uma função que:
+
+retorna apenas produtos com preço > 100
+🔟 Desafio final 🔥 (nível entrevista)
+numeros = [1, 2, 3, 4, 5, 6]
+
+👉 Crie uma função que:
+
+filtra os números pares
+dobra os valores
+retorna a lista final
+
+Resultado esperado:
+
+[4, 8, 12]

@@ -1,0 +1,17 @@
+1. Crie uma função que calcule o IMC (Índice de Massa Corporal)
+o Receba peso e altura como parâmetros
+o Retorne a classificação do IMC
+
+2. Desenvolva uma calculadora que receba inúmeros valores com funções para:
+
+o Soma
+o Subtração
+o Multiplicação
+o Divisão
+
+3. Crie uma função que:
+o Receba uma lista de números
+o Retorne o maior e o menor número
+· faça uma versão utilizando as funções padrão do Python
+· faça outra versão sem utilizar as funções padrão do Python
+· Use múltiplos retornos
